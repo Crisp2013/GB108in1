@@ -3,9 +3,9 @@
 
 게임보이 108 in 1 류 합팩 부트롬 디컴파일 소스코드
 
-# 이용 버전
-[rgbasm](https://github.com/gbdev/rgbds) : v0.4.2-pre
-폰트: 원본롬을 잃어버려서 수정된 폰트밖에 없음
+# z컴파일 방법
+[rgbasm](https://github.com/gbdev/rgbds) : v0.4.2-pre 버전 필요
+make.bat으로 컴파일 
 
 ## 이 프로젝트의 라이센스
 
