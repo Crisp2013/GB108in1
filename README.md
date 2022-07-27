@@ -3,7 +3,7 @@
 
 게임보이 108 in 1 류 합팩 부트롬 디컴파일 소스코드
 
-# 컴파일 방법
+## 컴파일 방법
 [rgbasm](https://github.com/gbdev/rgbds) : v0.4.2-pre 버전 필요
 make.bat으로 컴파일 
 
