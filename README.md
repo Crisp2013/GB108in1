@@ -1,5 +1,10 @@
 # GB108in1
 게임보이 108 in 1 류 합팩 부트롬 디컴파일 소스코드
+
+# 이용 버전
+[rgbasm](https://github.com/gbdev/rgbds) : v0.4.2-pre
+폰트: 원본롬을 잃어버려서 수정된 폰트밖에 없음
+
 ## 이 프로젝트의 라이센스
 
 <img src="img_opentype01.jpg" width="100px"></img> 
