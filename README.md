@@ -12,6 +12,6 @@ make.bat으로 컴파일
 
 BSD 4-Clause License
 
-Copyright (c) 2022, TaeYun An All rights reserved.
+Copyright (c) 2022, TaeYun An (혜음우리말화연구소) All rights reserved.
 
 [이곳](LICENSE.md)에서 라이선스 전문을 확인할 수 있습니다.
