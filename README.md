@@ -10,9 +10,8 @@ make.bat으로 컴파일
 
 ## 이 프로젝트의 라이센스
 
-<img src="image/img_opentype01.jpg" width="100px"></img> 
+BSD 4-Clause License
 
-본 저작물은 'WindowsTiger'가 2022년 작성하여 [공공누리 제1유형 저작권](LICENSE.md)으로 개방하였습니다.
+Copyright (c) 2022, TaeYun An All rights reserved.
 
-이 저작물은, 출처를 명시하는 조건으로, 누구나 온·오프라인을 통하여 공유 및 이용 가능하고, 2차적 저작물로 변경하
-여 이용 가능하고, 영리 목적으로도 이용할 수 있습니다.
+[이곳](LICENSE.md)에서 라이선스 전문을 확인할 수 있습니다.
