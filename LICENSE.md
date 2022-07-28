@@ -1,6 +1,6 @@
 BSD 4-Clause License
 
-Copyright (c) 2022, TaeYun An (WindowsTiger)
+Copyright (c) 2022, TaeYun An
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
