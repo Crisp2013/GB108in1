@@ -10,7 +10,7 @@ make.bat으로 컴파일
 
 ## 이 프로젝트의 라이센스
 
-BSD 4-Clause License
+BSD 3-Clause License
 
 Copyright (c) 2022, TaeYun An (WindowsTiger/혜음우리말화연구소) (0xodbs02@naver.com) All rights reserved.
 
