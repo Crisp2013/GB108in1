@@ -12,6 +12,6 @@ make.bat으로 컴파일
 
 BSD 3-Clause License
 
-Copyright (c) 2022, TaeYun An (WindowsTiger/혜음우리말화연구소) (0xodbs02@naver.com) All rights reserved.
+Copyright (c) 2022, TaeYun An (0xodbs02@naver.com) All rights reserved.
 
 [이곳](LICENSE)에서 라이선스 전문을 확인할 수 있습니다.
